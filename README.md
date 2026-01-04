@@ -1,3 +1,3 @@
 # Demo
 This is my first repository
-Author - Arsalan Ansari 
+Author - Arsalan Ansari ansari
